@@ -1,3 +1,6 @@
 [submodule "client-gateway"]
 	path = client-gateway
 	url = git@github.com:ac-nest-microservices/client-gateway.git
+[submodule "orders-msvc"]
+	path = orders-msvc
+	url = git@github.com:ac-nest-microservices/orders-msvc.git
