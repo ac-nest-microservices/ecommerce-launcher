@@ -4,3 +4,6 @@
 [submodule "orders-msvc"]
 	path = orders-msvc
 	url = git@github.com:ac-nest-microservices/orders-msvc.git
+[submodule "products-msvc"]
+	path = products-msvc
+	url = git@github.com:ac-nest-microservices/products-msvc.git
